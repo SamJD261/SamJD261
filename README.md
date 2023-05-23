@@ -4,11 +4,11 @@ I am a passionate avgeek and tech nerd, and an active pilot in FlightGear, an op
 
 #### Profile Statistics
 
-![SamAMatthews](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samamatthews&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samamatthews&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samamatthews&theme=github&utcOffset=8)
+![SamJD261](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamJD261&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamJD261&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamJD261&theme=github&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samamatthews&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samamatthews&theme=github)
-![Stats](https://github-readme-stats.vercel.app/api?username=samamatthews&show_icons=true&count_private=true&theme=github)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=samamatthews&layout=compact&show_icons=true&theme=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=SamJD261&show_icons=true&count_private=true&theme=github)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=SamJD261&layout=compact&show_icons=true&theme=github)
 
 ### Stuff
 
