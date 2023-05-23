@@ -22,11 +22,11 @@ I am a passionate avgeek and tech nerd, and an active pilot in FlightGear, an op
 
 - 👯 I’m looking to collaborate on:
   
-  My F-22 Raptor project for FlightGear (although I have not yet created a repository or project for it, and progress on it has been very marginal so far).
+  My F-22 Raptor project for FlightGear (although progress on it has been very marginal so far, in fact progress is almost zero).
   
 - 🤔 I’m looking for help with:
   
-  Learning XML, Nasal, and probably a couple of other languages I haven't remembered, as well as help with all the many skills required in developing an aircraft for FlightGear.
+  Learning XML, Nasal, and probably a couple of other languages I haven't remembered, as well as help with all the many skills required in developing an aircraft for FlightGear, e.g. animation, FDMs, literally everything about FG aircraft development.
   
 - 💬 Ask me about:
   
@@ -40,6 +40,6 @@ I am a passionate avgeek and tech nerd, and an active pilot in FlightGear, an op
   
   He/him.
 
-- ⚡ Fun fact:
+- ⚡ Other stuff:
 
-  I get very irritated when people try to shoot me down without asking if I want to dogfight. Although I always have multiplayer damage turned on when I'm flying combat-capable military aircraft, that doesn't mean I want to be shot at by some trigger-happy F-15 pilot who hasn't learnt about engagement etiquette yet. And yes, there is a chance I won't want to talk to you if you do this, so I suggest you don't run the risk if you're trying to reach out to me about something. That being said, I am more than happy to partake in a dogfight if I'm asked to, not that I'm very good at defending.
+  👏Don't👏shoot👏me👏down👏or👏try👏to👏dogfight👏me👏in👏FlightGear👏without👏asking👏first👏
