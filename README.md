@@ -14,7 +14,7 @@ mainly using this page for my website (for music/art stuff), but i used to do so
 
 - 🔭 I’m currently working on:
   
-  atm not much. Have previously been on and off with projects related to FlightGear and discord bots, but haven't touched any of that in ages. rn I'm mainly using my github page to host my website, which I'm overhauling.
+  atm not much. Have previously been on and off with projects related to FlightGear and discord bots, but haven't touched any of that in ages. rn I'm mainly using my github page to host my website, which I'm in the process of overhauling.
  
 - 🌱 I’m currently learning:
   
